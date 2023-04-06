@@ -1,0 +1,60 @@
+[class^="col-"], [class*=" col-"] {
+	float: left;
+}
+
+.ie-col-1, .ie-col-2, .ie-col-3, .ie-col-4, .ie-col-5, .ie-col-6, .ie-col-7, .ie-col-8, .ie-col-9, .ie-col-10, .ie-col-11, .ie-col-12{
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.ie-col-1{
+	max-width: 8.333333%;
+}
+
+.ie-col-2{
+	max-width: 16.666667%;
+}
+
+.ie-col-3{
+	max-width: 25%;
+}
+
+.ie-col-4{
+	max-width: 33.333333%;
+}
+
+.ie-col-5{
+	max-width: 41.666667%;
+}
+
+.ie-col-6{
+	max-width: 50%;
+}
+
+.ie-col-7{
+	max-width: 58.333333%;
+}
+
+.ie-col-8{
+	max-width: 66.666667%;
+}
+
+.ie-col-9{
+	max-width: 75%;
+}
+
+.ie-col-10{
+	max-width: 83.333333%;
+}
+
+.ie-col-11{
+	max-width: 91.666667%;
+}
+
+.ie-col-12{
+	max-width: 100%;
+}
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>path-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1008,268.333333 C1004.32,268.333333 1001.33333,271.32 1001.33333,275 C1001.33333,278.68 1004.32,281.666667 1008,281.666667 C1011.68,281.666667 1014.66667,278.68 1014.66667,275 C1014.66667,271.32 1011.68,268.333333 1008,268.333333 Z M1008.66667,278.333333 L1007.33333,278.333333 L1007.33333,274.333333 L1008.66667,274.333333 L1008.66667,278.333333 Z M1008.66667,273 L1007.33333,273 L1007.33333,271.666667 L1008.66667,271.666667 L1008.66667,273 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cart-Page" transform="translate(-1001.000000, -268.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="path-1" fill="#C0C3C5" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

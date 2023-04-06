@@ -1,0 +1,264 @@
+.loader-reviewpage .page-loader {
+    position: relative;
+    margin-top: 48px;
+    margin-bottom: 61px;
+}
+
+.rating-bar-detaild {
+    width: 120px;
+}
+
+.rating-review-progress {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.review-rating-head {
+    padding-right: 21px;
+}
+
+.rating-progressbar {
+    padding-left: 21px;
+}
+
+.rating-progress-flex {
+    display: flex;
+    align-items: center;
+}
+
+.rating-bar-detaild {
+    margin-left: 16px;
+    margin-right: 12px;
+}
+
+p.rating-usercount {
+    margin-left: 22px;
+    margin-bottom: 0;
+}
+
+.rating-progress-flex p {
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+.review-rating-head p {
+    font-size: 14px;
+}
+
+.review-page-pading {
+    padding: 24px;
+    border: 1px solid #eee;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+.review-profile-img {
+    width: 3.2em;
+    height: 3.2em;
+    line-height: 3.2em;
+    margin-right: 12px;
+    text-align: center;
+    border-radius: 50%;
+    color: #333333;
+    background-color: #e9e9e9;
+}
+
+.review-profile-img img {
+    border-radius: 50%;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+}
+
+.reviewd-profileflex {
+    display: flex;
+}
+
+.rating-withperson p {
+    margin-bottom: 0;
+    margin-left: 3px;
+    margin-right: 3px;
+    font-size: 14px;
+}
+
+.rating-withperson {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 5px;
+}
+
+.reviewd-person-main .review-verifiedstatus label {
+    padding: 6px 10px;
+    font-size: 11px;
+    line-height: 1;
+    vertical-align: middle;
+    display: inline-block;
+    color: #000;
+    background-color: #e9ecef;
+    margin-bottom: 0;
+}
+
+.reviewd-person-main .review-verifiedstatus {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.review-verifiedstatus h6 {
+    font-size: 14px;
+    margin-left: 8px;
+    margin-bottom: 0;
+}
+
+.reviewd-person-desc {
+    margin-top: 8px;
+}
+
+.reviewd-person-desc h6 {
+    margin-bottom: 3px;
+}
+
+.reviewd-person-desc p {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.reviewd-person-main {
+    padding-top: 46px;
+}
+
+.reviewd-profile-item {
+    padding-top: 22px;
+    padding-bottom: 22px;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.reviews-page {
+    padding-top: 38px;
+    margin-bottom: 38px;
+    border-top: 1px solid rgba(219, 219, 219, 0.6);
+}
+
+.reviewd-person-main .reviewd-profile-item:last-child {
+    border: 0;
+    padding-bottom: 0;
+}
+
+.reviewd-person-main .review-profile-img:after {
+    display: none;
+    font-family: arial;
+    -ms-transform: scaleX(-1) rotate(-35deg);
+    -webkit-transform: scaleX(-1) rotate(-35deg);
+    transform: scaleX(-1) rotate(-35deg);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-size: 9px;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    line-height: 15px;
+    border: 1px solid white;
+    text-align: center;
+    content: "L";
+    color: #ffffff;
+    background-color: rgb(0, 0, 0);
+}
+
+.review-profile-img {
+    position: relative;
+}
+
+/* Responsive Here */
+
+@media (max-width: 767.98px) {
+    .review-page-pading {
+        padding: 16px;
+        border: 1px solid #eee;
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+
+    .rating-progressbar {
+        padding-left: 0;
+    }
+
+    .rating-progress-flex p {
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+
+    .rating-progress-flex p {
+        margin-bottom: 0;
+        font-size: 14px;
+    }
+
+    .rating-review-progress {
+        flex-direction: column;
+    }
+
+    .rating-progressbar p.rating-usercount {
+        margin-left: 12px;
+    }
+
+    .review-profile-img {
+        flex-shrink: 0;
+    }
+
+    .reviewd-person-main {
+        padding-top: 24px;
+    }
+
+    .reviewd-profile-item {
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .rating-bar-detaild {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .rating-progress-flex p {
+        font-size: 12px;
+    }
+
+    .rating-progressbar p.rating-usercount {
+        margin-left: 12px;
+    }
+
+    .rating-progress-flex .star-points-bar {
+        flex-shrink: 0;
+    }
+}
+
+@media (max-width: 360px) {
+    .review-page-pading {
+        padding: 12px;
+    }
+
+    .rating-progressbar p.rating-usercount {
+        margin-left: 6px;
+    }
+
+    .rating-progress-flex p {
+        font-size: 11px;
+    }
+
+    .rating-bar-detaild {
+        width: 106px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .reviewd-person-main {
+        padding-top: 30px;
+    }
+
+    .reviewd-profile-item {
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+}

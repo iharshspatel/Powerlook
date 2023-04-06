@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="17px" viewBox="0 0 14 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>refresh-ccw</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Track-Product" transform="translate(-1046.000000, -450.000000)" stroke="#D63242" stroke-width="1.27272727">
+            <g id="Group-7" transform="translate(1044.000000, 450.000000)">
+                <g id="refresh-ccw" transform="translate(9.000000, 8.500000) rotate(20.000000) translate(-9.000000, -8.500000) translate(2.000000, 3.000000)">
+                    <polyline id="Path" points="0 0.611111111 0 4.27777778 3.81818182 4.27777778"></polyline>
+                    <polyline id="Path" points="14 10.3888889 14 6.72222222 10.1818182 6.72222222"></polyline>
+                    <path d="M12.4027273,3.66666667 C11.7467117,1.8863849 10.1854663,0.553800039 8.26745391,0.137046718 C6.34944146,-0.279706603 4.34290128,0.277655726 2.95272727,1.61333333 L0,4.27777778 M14,6.72222222 L11.0472727,9.38666667 C9.65709872,10.7223443 7.65055854,11.2797066 5.73254609,10.8629533 C3.81453365,10.4462 2.25328831,9.1136151 1.59727273,7.33333333" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

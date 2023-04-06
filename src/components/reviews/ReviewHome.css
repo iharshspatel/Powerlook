@@ -1,0 +1,229 @@
+.review-homesection .review-hometitle h4 {
+    margin-bottom: 6px;
+}
+
+.review-homesection .review-hometitle .star-rating-rev {
+    margin-bottom: 16px;
+}
+
+.starrating-slide {
+    margin-bottom: 12px;
+}
+
+.review-detaild p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    margin-bottom: 0;
+}
+
+.review-slidersection .slick-list {
+    margin: 0 -8px;
+}
+
+.review-slidersection .slick-slide>div {
+    padding: 0 12px;
+}
+
+.review-slidersection .review-detaild {
+    margin-bottom: 16px;
+    min-height: 80px;
+}
+
+.review-slidersection .review-detaild h6 {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.review-byperson h6 {
+    margin-bottom: 0;
+}
+
+.review-byperson p {
+    margin-bottom: 0;
+    font-size: 14px;
+}
+
+.review-byperson span {
+    font-style: italic;
+    font-size: 12px;
+}
+
+.review-detaild h6 {
+    margin-bottom: 3px;
+    margin-bottom: 3px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.review-slidersection .review-detaild div {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.paginator-center .prev-review {
+    display: inline-block !important;
+    border: 3px none #dfdddd;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    margin: 0;
+    line-height: 1.4;
+    border-style: solid none none solid;
+    margin-right: 15px;
+}
+
+.paginator-center .next-review {
+    display: inline-block !important;
+    border: 3px none #dfdddd;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    -webkit-transform: rotate(130deg);
+    transform: rotate(130deg);
+    margin: 0;
+    line-height: 1.4;
+    border-style: solid none none solid;
+    margin-right: 15px;
+}
+
+.paginator-center.text-center {
+    margin-top: 40px;
+}
+
+.review-homesection {
+    padding: 30px 0 30px;
+}
+
+.review-homesection .star-ratings path.star {
+    fill: #000 !important;
+}
+
+/* Mobile  */
+@media (max-width: 767.98px) {
+    .review-slidersection .review-detaild {
+        min-height: 100%;
+    }
+
+    .des-btn-review {
+        display: none;
+    }
+
+    .mob-btn-review {
+        display: block;
+    }
+}
+
+@media (min-width: 767.99px) {
+    .des-btn-review {
+        display: block;
+    }
+
+    .mob-btn-review {
+        display: none;
+    }
+}
+
+
+.review-homesection .star-ratings path.star {
+    fill: #009662 !important;
+}
+
+.review-photos>li {
+    display: none !important;
+}
+
+.review-detaild .uploaded-review-images {
+    display: none !important;
+}
+
+.review-hometitle {
+    text-align: left !important;
+}
+
+.review-hometitle p {
+    color: #212529;
+    font-weight: 500;
+}
+
+.review-hometitle .heading-block h2 {
+    line-height: 20px;
+    margin-bottom: 6px;
+    text-align: left;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.review-hometitle .heading-block p {
+    text-align: left;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.review-hometitle .heading-block p:after {
+    content: ' ';
+    margin-left: 8px;
+    display: block;
+    width: 20px;
+    background-color: #212529;
+    height: 2px;
+}
+
+@media screen and (max-width: 767px) {
+    .review-hometitle .heading-block h2 {
+        font-size: 24px;
+    }
+
+    .review-hometitle .heading-block p {
+        justify-content: center;
+    }
+
+    .review-hometitle .heading-block h2 {
+        text-align: center !important;
+    }
+
+    .review-hometitle {
+        text-align: center !important;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .review-hometitle .heading-block h2 {
+        font-style: 20px;
+    }
+
+    .review-hometitle .heading-block p:after {
+        width: 12px;
+    }
+}
+
+.main-wrapper .review-homesection .review-hometitle .tagline span {
+    background-color: #d63242;
+    padding: 4px;
+    color: #fff;
+}
+
+.main-wrapper .review-homesection .review-hometitle .tagline {
+    color: #939ea7;
+    margin-left: 4px;
+}
+
+.main-wrapper .review-homesection .des-btn-review .btn-border {
+    height: 40px;
+    display: flex;
+    max-width: 144px;
+    align-items: center;
+    justify-content: center;
+    padding: 0 4px;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Confirmed" transform="translate(-689.000000, -166.000000)" fill="#37A000" fill-rule="nonzero">
+            <path d="M720,228 C702.879173,228 689,214.120827 689,197 C689,179.879173 702.879173,166 720,166 C737.120827,166 751,179.879173 751,197 C751,214.120827 737.120827,228 720,228 Z M720,226 C736.016258,226 749,213.016258 749,197 C749,180.983742 736.016258,168 720,168 C703.983742,168 691,180.983742 691,197 C691,213.016258 703.983742,226 720,226 Z M715.826,202.812 L730.652,188 L732.626,189.974 L715.826,206.774 L708,198.948 L709.988,196.974 L715.826,202.812 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

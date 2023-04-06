@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>map-pin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="My-Orders" transform="translate(-1109.000000, -374.000000)" stroke="#30343B" stroke-width="1.60000002">
+            <g id="map-pin" transform="translate(1110.000000, 375.000000)">
+                <path d="M14,7.36363636 C14,13.0909091 7,18.0000001 7,18.0000001 C7,18.0000001 0,13.0909091 0,7.36363636 C5.76077887e-08,3.29681234 3.13400679,1.09726732e-07 7,1.09726732e-07 C10.8659932,1.09726733e-07 13.9999999,3.29681234 14,7.36363636 L14,7.36363636 Z" id="Path"></path>
+                <ellipse id="Oval" cx="7" cy="7.36363636" rx="2.33333333" ry="2.45454545"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
